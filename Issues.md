@@ -1,7 +1,6 @@
 ---
 layout: category
 title: Issues
-sidebar_link: true
 ---
 
 <p class="message">
