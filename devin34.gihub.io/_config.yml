@@ -30,6 +30,8 @@ url: "https://devin34.github.io" # the base hostname & protocol for your site, e
 twitter_username: jekyllrb
 github_username:  jekyll
 
+github: [metadata]
+
 # Build settings
 theme: minima
 plugins:
