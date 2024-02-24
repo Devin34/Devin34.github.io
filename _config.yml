@@ -33,9 +33,18 @@ github_username:  jekyll
 github: [metadata]
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: fongandrew/hydeout
+
+paginate: 5
+
+disqus:
+  shortname: Devin34
+
 plugins:
   - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default.
