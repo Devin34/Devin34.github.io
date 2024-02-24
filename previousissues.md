@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Issues
+title: Previous Issues
 ---
 
 <p class="message">
