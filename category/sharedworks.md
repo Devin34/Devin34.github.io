@@ -1,7 +1,6 @@
 ---
 layout: category
 title: Shared Works
-sidebar_link: true
 category: sharedworks
 ---
 
