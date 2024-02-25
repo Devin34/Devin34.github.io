@@ -3,6 +3,7 @@ layout: post
 title:  "Story Bout Cool Kid By Cool Kid"
 date:   2024-01-24 
 categories: sharedworks
+hidden: true
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis est lorem, placerat nec dignissim
