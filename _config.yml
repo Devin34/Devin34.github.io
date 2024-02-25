@@ -32,6 +32,8 @@ github_username:  kscope
 
 github: [metadata]
 
+future: true
+
 # Build settings
 #theme: minima
 remote_theme: fongandrew/hydeout
